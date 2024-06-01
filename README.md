@@ -46,11 +46,10 @@ El repositorio está organizado de la siguiente manera:
 ## Ejercicios
 
 # Cap 5
-1. [Capítulo 5 - Ejercicio 1](Cap1/ejercicio1/enunciado.md)
-2. [Capítulo 5 - Ejercicio 2](Cap1/ejercicio2/enunciado.md)
-3. [Capítulo 5 - Ejercicio 3](Cap1/ejercicio3/enunciado.md)
-4. [Capítulo 5 - Ejercicio 4](Cap1/ejercicio4/enunciado.md)
-5. ...
+1. [Ejercicio 1](Cap1/ejercicio1/enunciado.md)
+2. [Ejercicio 2](Cap1/ejercicio2/enunciado.md)
+3. [Ejercicio 3](Cap1/ejercicio3/enunciado.md)
+4. [Ejercicio 4](Cap1/ejercicio4/enunciado.md)
 
 ## Cómo Contribuir
 
