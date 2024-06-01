@@ -12,9 +12,9 @@ El objetivo de este ejercicio es practicar la entrada y salida de datos, así co
 
 1. Solicitar al usuario que ingrese el valor de un lado del cuadrado.
 2. Calcular el perímetro del cuadrado utilizando la fórmula:
-   \[
-   \text{Perímetro} = 4 \times \text{Lado}
-   \]
+
+   Perímetro = 4 * Lado
+   
 3. Mostrar el resultado en pantalla con un mensaje adecuado.
 
 ## Ejemplo
