@@ -16,6 +16,7 @@ Este repositorio contiene los ejercicios realizados durante el curso de **Fundam
 El repositorio está organizado de la siguiente manera:
 
 ├── Ejercicio1/
+
 │ ├── enunciado.md
 │ ├── solucion.py
 ├── Ejercicio2/
