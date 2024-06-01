@@ -18,16 +18,18 @@ El objetivo de este ejercicio es practicar la entrada y salida de datos, así co
 ## Ejemplo
 
 ### Entrada
-
-Ingrese el primer número: 4 <br>
-Ingrese el segundo número: 5 <br>
-Ingrese el tercer número: 2 <br>
-Ingrese el cuarto número: 3 <br>
+```shell 
+Ingrese el primer número: 4 
+Ingrese el segundo número: 5 
+Ingrese el tercer número: 2 
+Ingrese el cuarto número: 3 
+```
 
 ### Salida
-
-La suma de los dos primeros números es: 9 <br>
-El producto del tercer y cuarto número es: 6 <br>
+```shell 
+La suma de los dos primeros números es: 9 
+El producto del tercer y cuarto número es: 6 
+```
 
 ## Pseudocódigo
 
