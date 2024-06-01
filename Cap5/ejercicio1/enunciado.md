@@ -1,3 +1,34 @@
-# Enunciado
+# Ejercicio: Cálculo del Perímetro de un Cuadrado
 
-Realizar la carga del lado de un cuadrado, mostrar por pantalla el perímetro del mismo (El perímetro de un cuadrado se calcula multiplicando el valor del lado por cuatro)
+## Descripción
+
+Este ejercicio consiste en solicitar al usuario el valor de un lado de un cuadrado y calcular el perímetro del mismo. El perímetro de un cuadrado se calcula multiplicando el valor del lado por cuatro.
+
+## Objetivo
+
+El objetivo de este ejercicio es practicar la entrada y salida de datos, así como las operaciones aritméticas básicas en Python.
+
+## Instrucciones
+
+1. Solicitar al usuario que ingrese el valor de un lado del cuadrado.
+2. Calcular el perímetro del cuadrado utilizando la fórmula:
+   \[
+   \text{Perímetro} = 4 \times \text{Lado}
+   \]
+3. Mostrar el resultado en pantalla con un mensaje adecuado.
+
+## Ejemplo
+
+### Entrada
+
+Ingrese el valor del lado del cuadrado: 5
+
+### Salida
+
+El perímetro del cuadrado es: 20
+
+## Pseudocódigo
+
+1. Leer el valor del lado del cuadrado.
+2. Calcular el perímetro como `lado * 4`.
+3. Mostrar el perímetro con un mensaje.
