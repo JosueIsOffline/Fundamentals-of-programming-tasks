@@ -20,12 +20,14 @@ El objetivo de este ejercicio es practicar la entrada y salida de datos, así co
 ## Ejemplo
 
 ### Entrada
-
+```shell 
 Ingrese el valor del lado del cuadrado: 5
+```
 
 ### Salida
-
+```shell 
 El perímetro del cuadrado es: 20
+```
 
 ## Pseudocódigo
 
